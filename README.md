@@ -1,3 +1,36 @@
+Mi actualización del README.
+Primero hice el menú, le di un color blanco y le di posición "fixed", le di tamaño (ancho y largo).
+Luego declare el tamaño de la fuente y el grosor, usé "relative" y ordene las palabras dentro del menú.
+Ubique el logo en donde quería y le di un tamaño.
+Hice un cuadro blanco que se ubicara detrás de mi nav para crear un espacio en las siguientes secciones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # AppLove
 
 Para completar tu web **AppLove** hemos creado este repositorio boilerplate (plantilla inicial) con todos los recursos que necesitas. Esto incluye las imágenes y algunas clases CSS que ya hemos creado para ti :)
